@@ -1,4 +1,4 @@
-## E aí, tudo beleza?? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
+## Sobre mim <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 
 Apaixonado por programação e tecnologias, eu sou um desenvolvedor front-end & Javascript. No meu tempo livre me aventuro no back-end com NodeJS e Express.
