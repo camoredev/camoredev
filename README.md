@@ -1,4 +1,4 @@
-## Sobre mim <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
+## I'am Caio Moraes <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 Fala Dev's!!!</br>
 Amo programação em geral, porém minha maior paixão são as telinhas(FRONT-END e UX), onde tenho estudado através dos conteúdos da Rocketseat, Origamid e o programa UX Unicórnio.
