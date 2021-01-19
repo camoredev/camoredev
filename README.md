@@ -1,7 +1,7 @@
-## I'am Caio Moraes <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
+## I'am Caio Moraes 
+Web Developer and Traffic Manager
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-Fala Dev's!!!</br>
-Amo programação em geral, porém minha maior paixão são as telinhas(FRONT-END e UX), onde tenho estudado através dos conteúdos da Rocketseat, Origamid e o programa UX Unicórnio.
 
 <a href="https://www.linkedin.com/in/caio-moraes-7700b91b3/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
