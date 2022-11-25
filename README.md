@@ -48,6 +48,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Caio Moraes](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Caio Moraes](https://img.shields.io/badge/-camoredev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camoredev/)](https://www.linkedin.com/in/camoredev/)
 [![Gmail Badge](https://img.shields.io/badge/-camoredev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camoredev@email.com)](mailto:camoredev@email.com)
 [![GitHub Caio Moraes]( https://img.shields.io/github/followers/camoredev?label=follow&style=social)](https://github.com/camoredev/)
