@@ -2,10 +2,10 @@
 
 <h3> 👨‍💻: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Desbravando esse mundo apaixonante chamado Tecnologia.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web** no <a href="https://www.linkedin.com/school/betrybe/">Trybe</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 💼 &nbsp; Em busca da minha primeira opotunidade.
+- 🌱 &nbsp; Aprendendo mais sobre **Typescript**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
