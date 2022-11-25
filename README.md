@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=camoredev&color=006bed)
 
 <h3> 👨‍💻: &nbsp;Sobre mim </h3>
 
@@ -40,14 +40,14 @@
 
 <br/>
 
-<a href="https://github.com/camoredev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camoredev&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Caio Moraes](https://img.shields.io/badge/-camoredev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camoredev/)](https://www.linkedin.com/in/camoredev/)
 [![Gmail Badge](https://img.shields.io/badge/-camoredev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camoredev@email.com)](mailto:camoredev@email.com)
 [![GitHub Caio Moraes]( https://img.shields.io/github/followers/camoredev?label=follow&style=social)](https://github.com/camoredev/)
+
+<br/>
+
+<a href="https://github.com/camoredev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camoredev&theme=dracula&show_icons=true" />
+</a>
