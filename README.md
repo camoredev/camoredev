@@ -48,7 +48,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-camoredev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camoredev@email.com)](mailto:camoredev@email.com)
 [![GitHub Caio Moraes]( https://img.shields.io/github/followers/camoredev?label=follow&style=social)](https://github.com/camoredev/)
 
-<br/>
+## **GitHub Estatísticas**
 
 <a href="https://github.com/camoredev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camoredev&theme=dracula&hide_langs_below=1" />
