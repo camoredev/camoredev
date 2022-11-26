@@ -14,17 +14,18 @@
 **Aplicações e Dados**
 
  
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-0081CB?style=for-the-badge&logo=sequelize&logoColor=white)
 
 **Utilidades**
 
