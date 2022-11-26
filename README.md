@@ -51,5 +51,9 @@
 <br/>
 
 <a href="https://github.com/camoredev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camoredev&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/camoredev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camoredev&theme=dracula&show_icons=true" />
 </a>
