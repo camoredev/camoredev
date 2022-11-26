@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Estudando **Desenvolvimento Web** no <a href="https://www.linkedin.com/school/betrybe/">Trybe</a>.
 - 💼 &nbsp; Em busca da minha primeira opotunidade.
 - 🌱 &nbsp; Aprendendo mais sobre **Typescript**.
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
