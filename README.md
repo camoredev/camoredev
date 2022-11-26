@@ -49,7 +49,7 @@
 
 [![Linkedin: Caio Moraes](https://img.shields.io/badge/camoredev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/camoredev/)](https://www.linkedin.com/in/camoredev/)
 [![Gmail Badge](https://img.shields.io/badge/camoredev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:camoredev@email.com)](mailto:camoredev@email.com)
-[![GitHub Caio Moraes]( https://img.shields.io/github/followers/camoredev?label=follow&style=social)](https://github.com/camoredev/)
+[![GitHub Caio Moraes](https://img.shields.io/github/followers/camoredev?follow-0081CB?style=for-the-badge&logo=github&logoColor=white)
 
 ## **GitHub Estatísticas**
 
