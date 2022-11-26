@@ -54,6 +54,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camoredev&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/camoredev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camoredev&theme=dracula&show_icons=true" />
+<a href="https://github.com/camoredv">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=camoredev&show_icons=true&theme=dracula&line_height=27" alt="**Caio Moraes** github stats"/>
 </a>
