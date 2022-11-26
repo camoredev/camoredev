@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=camoredev&color=006bed)
 
-<h3> 👨‍💻: &nbsp;Sobre mim </h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h3> 👨‍💻: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Desbravando esse mundo apaixonante chamado Tecnologia.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web** no <a href="https://www.linkedin.com/school/betrybe/">Trybe</a>.
