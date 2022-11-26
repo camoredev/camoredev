@@ -24,7 +24,7 @@
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-0081CB?style=for-the-badge&logo=sequelize&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E6?style=for-the-badge&logo=sequelize&logoColor=white)
 
 **Utilidades**
 
