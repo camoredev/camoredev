@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Desbravando esse mundo apaixonante chamado Tecnologia.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web** no <a href="https://www.linkedin.com/school/betrybe/">Trybe</a>.
 - 💼 &nbsp; Em busca da minha primeira opotunidade.
-- 🌱 &nbsp; Aprendendo mais sobre **Typescript**.
+- 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
